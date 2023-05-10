@@ -1,5 +1,5 @@
 {
-    "name": "csgo",
+    "name": "csgo min",
     "description": "",
     "dependencies": {
         "device": "*"
